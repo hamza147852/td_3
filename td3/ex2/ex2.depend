@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733300822 source:c:\users\hamza\desktop\cpi\cpi2\cpi2_1\atelier_c++\td3\ex2\main.cpp
+	<iostream>
+	<array>
+	<vector>
+
